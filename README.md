@@ -66,7 +66,9 @@ Initial data review was conducted to understand distribution and potential anoma
 * **Overall Performance:** Total sales achieved $45,134 over the 3.5 year period. While 2019 saw a slight drop at -0.57% YoY, 2021 came back swinging with a 13.60% YoY growth, indicating successful strategy implementation in the later half of the period. 
 * **Top Performer:** The United States generated the highest revenue, contributing 79% of total sales, indicating a strong share in the market.
 
+
 <img width="645" height="241" alt="image" src="https://github.com/user-attachments/assets/6abf46af-40d4-4126-89e4-361a7aac082f" />
+
 
 * **Loyalty Impact:** Customers holding a loyalty card accounted for only 46% percent of sales, signaling a needed adjustment in strategy to improve customer retention. 
 * **Emerging Trend:** Liberica sales, while lower in volume, showed the most explosive growth in the most recent two quarters.
