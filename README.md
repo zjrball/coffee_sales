@@ -13,17 +13,24 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Project Overview
-This project demonstrates proficiency in data cleaning, aggregation, and visualization within Microsoft Excel to transform raw sales data into actionable business intelligence. The resulting dashboard provides leadership with interactive tools to monitor sales performance, identify key customer segments, and track product trends over time.
+This project demonstrates proficiency in data cleaning, aggregation, and visualization within Microsoft Excel to transform raw sales data into actionable business intelligence. The resulting dashboard provides leadership with interactive tools to monitor sales performance, identify key customer segments, and track product trends over time. 
 
 ## Dashboard
+The final dashboard is a clean, visually thematic report designed for quick consumption. The design features a coffee-themed color palette and multiple slicers to improve comprehension and accessibility of the data.
+* Trend Analysis: An interactive Line Chart visualizing Total Sales Over Time broken down by coffee type.
+* Segmentation: Bar Charts detailing Sales by Country and Top 5 Customers.
+* Interactivity: All visuals are dynamically controlled using Slicers (Roast Type, Size, Loyalty Card) and an Order Date Timeline.
+
 <img width="1597" height="849" alt="dashboard" src="https://github.com/user-attachments/assets/2c511f1f-a328-43d8-a041-899be3190e6b" />
 
-
 ## Data Source
-[coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
+* [coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
+* Primary Data: Fictional sales dataset containing detailed transactional records, including order date, customer ID, product details, and sales amount.
+* Secondary Data: Separate tables containing Customer and Product reference details (used for VLOOKUP/INDEX MATCH).
 
 ## Tool
-Completed entirely in Microsoft Excel
+* Primary Tool: Microsoft Excel (2016+)
+* Version Control: Git & GitHub
 
 ## Data Cleaning/Preparation
 This stage focused on establishing a clean, structured, and consistent dataset ready for Pivot Table analysis.
@@ -42,12 +49,18 @@ Formatting & Quality Control:
 * Checked for and addressed duplicate entries to ensure data integrity.
 <img width="309" height="251" alt="no_duplicates" src="https://github.com/user-attachments/assets/9c228ca3-d979-406a-b7b4-f389299920a9" />
 
+## Exploratory Data Analysis
+Initial data review was conducted to understand distribution and potential anomalies prior to visualization:
+* Sales Concentration: Identified that the United States accounts for 79% of total sales, necessitating the use of relative trend comparisons rather than focusing solely on absolute figures.
+* Loyalty Gap: Confirmed a significant gap in customer loyalty, with less than half of customers utilizing the loyalty program. This finding was prioritized for the final recommendations.
+* Trend Confirmation: Validated that the time series data did not contain significant outliers, confirming the suitability of the line chart for trend analysis.
+
 ## Data Analysis
 * Pivot Table Construction: Created two primary Pivot Tables to generate the underlying data for the dashboard's visuals:
 1. Time Series: Pivot Table structured by Month/Year for trend plotting.
 2. Customer/Country: Pivot Tables used for ranking and segmenting data.
-* Time-Based Calculations: Utilized date functions to calculate Year-over-Year (YoY) growth and compare performance across periods (e.g., Q3 2021 vs. Q3 2020).
-* Dynamic Filtering: All Pivot Tables were connected to the Slicers and Timeline filter using the Report Connections feature, enabling full user interactivity.
+* **Time-Based Calculations:** Utilized date functions to calculate Year-over-Year (YoY) growth and compare performance across periods (e.g., Q3 2021 vs. Q3 2020).
+* **Dynamic Filtering:** All Pivot Tables were connected to the Slicers and Timeline filter using the **Report Connections** feature, enabling full user interactivity.
 
 ## Results
 * **Overall Performance:** Total sales achieved $45,134 over the 3.5 year period. While 2019 saw a slight drop at -0.57% YoY, 2021 came back swinging with a 13.60% YoY growth, indicating successful strategy implementation in the later half of the period. 
@@ -64,7 +77,7 @@ The following actionable strategies are recommended based on data findings:
 2. **Investigate Growth Drivers:** Deep dive into the sales strategies in Ireland to identify successful tactics that can be replicated in this underperforming market.
 
 ## Acknowledgement
-This project was completed as part of a tutorial. I want to give full credit to the original creator.
+This project was completed as part of a tutorial, the initial dashboard design and data was provided by the original creator. I want to give full credit to the original creator.
 
 * **Author:** [[Mo Chen](https://www.youtube.com/@mo-chen)]
 * **Tutorial:** [[Tutorial Link](https://www.youtube.com/watch?v=m13o5aqeCbM)]
