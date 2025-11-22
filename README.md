@@ -28,8 +28,8 @@ Completed entirely in Microsoft Excel
 This stage focused on establishing a clean, structured, and consistent dataset ready for Pivot Table analysis.
 
 Data Gathering & Transformation:
-* Gathered customer data (customer name, customer email, customer country, loyalty card) using XLOOKUP/IF statements.
-* Used INDEX/MATCH to retrieve corresponding product details (coffee type, roast type, size, unit price).
+* Gathered customer data (customer name, customer email, customer country, loyalty card) using **XLOOKUP/IF** statements.
+* Used **INDEX/MATCH** to retrieve corresponding product details (coffee type, roast type, size, unit price).
 
 Conditional Logic & Standardization:
 * Created Coffee Type Name and Roast Type Name columns using nested IF functions to standardize product naming.
@@ -49,7 +49,11 @@ Formatting & Quality Control:
 * Dynamic Filtering: All Pivot Tables were connected to the Slicers and Timeline filter using the Report Connections feature, enabling full user interactivity.
 
 ## Results
-
+* **Overall Performance:** Total sales achieved $45,134 over the 3.5 year period. While 2019 saw a slight drop at -0.57% YoY, 
+2021 came back swinging with a 13.60% YoY growth, indicating successful strategy implementation in the later half of the period. 
+* **Top Performer:** The United States generated the highest revenue, contributing 79% of total sales, indicating a strong share in the market.
+<img width="645" height="241" alt="image" src="https://github.com/user-attachments/assets/6abf46af-40d4-4126-89e4-361a7aac082f" />
+* **Loyalty Impact:** 
 
 ## Recommendations
 
