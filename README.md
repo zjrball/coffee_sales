@@ -75,7 +75,7 @@ Initial data review was conducted to understand distribution and potential anoma
 
 ## Recommendations
 The following actionable strategies are recommended based on data findings:
-1. **Improve Customer Retention:** Currently, 53% of customers are not signed up with the loyalty program. I recommend increasing the marketing budget for personalized campaigns incentiving loyalty program signups, increasing the customer retention rate.
+1. **Improve Customer Retention:** Currently, 53% of customers are not signed up with the loyalty program. I recommend increasing the marketing budget for personalized campaigns to incentivize loyalty program signups, increasing the customer retention rate.
 2. **Investigate Growth Drivers:** Deep dive into the sales strategies in Ireland to identify successful tactics that can be replicated in this underperforming market.
 
 ## Acknowledgement
