@@ -40,7 +40,7 @@ Data Gathering & Transformation:
 * Used **INDEX/MATCH** to retrieve corresponding product details (coffee type, roast type, size, unit price).
 
 Conditional Logic & Standardization:
-* Created Coffee Type Name and Roast Type Name columns using nested IF functions to standardize product naming.
+* Created Coffee Type Name and Roast Type Name columns using **nested IF functions** to standardize product naming.
 * Formatted the Order Date column to ensure consistency across European and American date formats.
 
 Formatting & Quality Control:
