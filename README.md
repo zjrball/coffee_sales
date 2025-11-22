@@ -58,7 +58,9 @@ Formatting & Quality Control:
 * **Emerging Trend:** Liberica sales, while lower in volume, showed the most explosive growth in the most recent two quarters.
 
 ## Recommendations
-
+The following actionable strategies are recommended based on data findings:
+1. **Improve Customer Retention:** Currently, 53% of customers are not signed up with the loyalty program. I recommend increasing the marketing budget for personalized campaigns incentiving loyalty program signups, increasing the customer retention rate.
+2. **Investigate Growth Drivers:** Deep dive into the sales strategies in Ireland to identify successful tactics that can be replicated in this underperforming market.
 
 ## Acknowledgement
 This project was completed as part of a tutorial. I want to give full credit to the original creator.
