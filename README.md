@@ -30,7 +30,7 @@ The final dashboard is a clean, visually thematic report designed for quick cons
 
 ## Tools
 * Primary Tool: Microsoft Excel (2016+)
-* Version Control: Git & GitHub
+* Version Control: GitHub
 
 ## Data Cleaning 
 This stage focused on establishing a clean, structured, and consistent dataset ready for Pivot Table analysis.
