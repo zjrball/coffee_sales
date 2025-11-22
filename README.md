@@ -1,2 +1,71 @@
-# coffee_sales
-Coffee Sales Analysis & Dashboard
+# ☕ Retail Shop Case Study: Coffee Sales Dashboard Analysis
+
+## Table of Contents
+* [Project Overview](#project-overview)
+* [Dashboard](#dashboard)
+* [Data Source](#data-source)
+* [Tool](#tools)
+* [Data Cleaning/Preparation](#data-preparation)
+* [Exploratory Data Analysis](#exploratory-data-analysis)
+* [Data Analysis](#data-analysis)
+* [Results](#results)
+* [Recommendations](#recommendations)
+* [Acknowledgement](#acknowledgement)
+
+## Project Overview
+This project demonstrates proficiency in data cleaning, aggregation, and visualization within Microsoft Excel to transform raw sales data into actionable business intelligence. The resulting dashboard provides leadership with interactive tools to monitor sales performance, identify key customer segments, and track product trends over time.
+
+## Dashboard
+<img width="1852" height="976" alt="dashboard" src="https://github.com/user-attachments/assets/7a18139e-12e9-486f-b384-536172fb3e16" />
+
+## Data Source
+[coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
+
+## Tool
+Completed entirely in Microsoft Excel
+
+## Data Cleaning/Preparation
+This stage focused on establishing a clean, structured, and consistent dataset ready for Pivot Table analysis.
+
+Data Gathering & Transformation:
+* Gathered customer data (customer name, customer email, customer country, loyalty card) using **XLOOKUP/IF** statements.
+* Used **INDEX/MATCH** to retrieve corresponding product details (coffee type, roast type, size, unit price).
+
+Conditional Logic & Standardization:
+* Created Coffee Type Name and Roast Type Name columns using nested IF functions to standardize product naming.
+* Formatted the Order Date column to ensure consistency across European and American date formats.
+
+Formatting & Quality Control:
+* Formatted the Size column to include the (kg) metric for clarity.
+* Formatted Unit Price and Sales columns to USD currency.
+* Checked for and addressed duplicate entries to ensure data integrity.
+<img width="309" height="251" alt="no_duplicates" src="https://github.com/user-attachments/assets/9c228ca3-d979-406a-b7b4-f389299920a9" />
+
+## Data Analysis
+* Pivot Table Construction: Created two primary Pivot Tables to generate the underlying data for the dashboard's visuals:
+1. Time Series: Pivot Table structured by Month/Year for trend plotting.
+2. Customer/Country: Pivot Tables used for ranking and segmenting data.
+* Time-Based Calculations: Utilized date functions to calculate Year-over-Year (YoY) growth and compare performance across periods (e.g., Q3 2021 vs. Q3 2020).
+* Dynamic Filtering: All Pivot Tables were connected to the Slicers and Timeline filter using the Report Connections feature, enabling full user interactivity.
+
+## Results
+* **Overall Performance:** Total sales achieved $45,134 over the 3.5 year period. While 2019 saw a slight drop at -0.57% YoY, 2021 came back swinging with a 13.60% YoY growth, indicating successful strategy implementation in the later half of the period. 
+* **Top Performer:** The United States generated the highest revenue, contributing 79% of total sales, indicating a strong share in the market.
+
+<img width="645" height="241" alt="image" src="https://github.com/user-attachments/assets/6abf46af-40d4-4126-89e4-361a7aac082f" />
+
+* **Loyalty Impact:** Customers holding a loyalty card accounted for only 46% percent of sales, signaling a needed adjustment in strategy to improve customer retention. 
+* **Emerging Trend:** Liberica sales, while lower in volume, showed the most explosive growth in the most recent two quarters.
+
+## Recommendations
+The following actionable strategies are recommended based on data findings:
+1. **Improve Customer Retention:** Currently, 53% of customers are not signed up with the loyalty program. I recommend increasing the marketing budget for personalized campaigns incentiving loyalty program signups, increasing the customer retention rate.
+2. **Investigate Growth Drivers:** Deep dive into the sales strategies in Ireland to identify successful tactics that can be replicated in this underperforming market.
+
+## Acknowledgement
+This project was completed as part of a tutorial. I want to give full credit to the original creator.
+
+* **Author:** [[Mo Chen](https://www.youtube.com/@mo-chen)]
+* **Tutorial:** [[Tutorial Link](https://www.youtube.com/watch?v=m13o5aqeCbM)]
+
+
