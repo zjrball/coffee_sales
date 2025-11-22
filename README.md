@@ -16,7 +16,8 @@
 This project demonstrates proficiency in data cleaning, aggregation, and visualization within Microsoft Excel to transform raw sales data into actionable business intelligence. The resulting dashboard provides leadership with interactive tools to monitor sales performance, identify key customer segments, and track product trends over time.
 
 ## Dashboard
-<img width="1852" height="976" alt="dashboard" src="https://github.com/user-attachments/assets/7a18139e-12e9-486f-b384-536172fb3e16" />
+<img width="1597" height="849" alt="dashboard" src="https://github.com/user-attachments/assets/2c511f1f-a328-43d8-a041-899be3190e6b" />
+
 
 ## Data Source
 [coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
