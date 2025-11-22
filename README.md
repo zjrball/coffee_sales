@@ -77,6 +77,7 @@ Initial data review was conducted to understand distribution and potential anoma
 The following actionable strategies are recommended based on data findings:
 1. **Improve Customer Retention:** Currently, 53% of customers are not signed up with the loyalty program. I recommend increasing the marketing budget for personalized campaigns to incentivize loyalty program signups, increasing the customer retention rate.
 2. **Investigate Growth Drivers:** Deep dive into the sales strategies in Ireland to identify successful tactics that can be replicated in this underperforming market.
+3. **Streamline Product Offerings & Inventory:** Analyze the profitability margin for each coffee size (e.g., 0.2 kg vs. 1.0 kg). Recommend phasing out the lowest-margin or slowest-moving size to simplify inventory, reduce storage costs, and focus marketing efforts solely on the most profitable package sizes.
 
 ## Acknowledgement
 This project was completed as part of a tutorial, the initial dashboard design and data was provided by the original creator. I want to give full credit to the original creator.
