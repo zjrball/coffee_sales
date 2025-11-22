@@ -4,7 +4,7 @@
 * [Project Overview](#project-overview)
 * [Dashboard](#dashboard)
 * [Data Source](#data-source)
-* [Tool](#tools)
+* [Tools](#tools)
 * [Data Cleaning/Preparation](#data-preparation)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Data Analysis](#data-analysis)
@@ -28,7 +28,7 @@ The final dashboard is a clean, visually thematic report designed for quick cons
 * Primary Data: Fictional sales dataset containing detailed transactional records, including order date, customer ID, product details, and sales amount.
 * Secondary Data: Separate tables containing Customer and Product reference details (used for VLOOKUP/INDEX MATCH).
 
-## Tool
+## Tools
 * Primary Tool: Microsoft Excel (2016+)
 * Version Control: Git & GitHub
 
