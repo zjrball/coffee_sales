@@ -57,7 +57,7 @@ Formatting & Quality Control:
 ## Acknowledgement
 This project was completed as part of a tutorial. I want to give full credit to the original creator.
 
-* **Author:** [[Mo Chen]((https://www.youtube.com/@mo-chen))]
+* **Author:** [[Mo Chen](https://www.youtube.com/@mo-chen)]
 * **Tutorial:** [[Tutorial Link](https://www.youtube.com/watch?v=m13o5aqeCbM)]
 
 
