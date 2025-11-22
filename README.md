@@ -24,7 +24,7 @@ The final dashboard is a clean, visually thematic report designed for quick cons
 <img width="1597" height="849" alt="dashboard" src="https://github.com/user-attachments/assets/2c511f1f-a328-43d8-a041-899be3190e6b" />
 
 ## Data Source
-* [coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
+* **Workbook:** [coffeeOrdersData.xlsx](https://github.com/user-attachments/files/23690917/coffeeOrdersData.xlsx)
 * Primary Data: Fictional sales dataset containing detailed transactional records, including order date, customer ID, product details, and sales amount.
 * Secondary Data: Separate tables containing Customer and Product reference details (used for VLOOKUP/INDEX MATCH).
 
