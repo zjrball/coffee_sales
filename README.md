@@ -5,7 +5,7 @@
 * [Dashboard](#dashboard)
 * [Data Source](#data-source)
 * [Tools](#tools)
-* [Data Cleaning/Preparation](#data-preparation)
+* [Data Cleaning](#data-cleaning)
 * [Exploratory Data Analysis](#exploratory-data-analysis)
 * [Data Analysis](#data-analysis)
 * [Results](#results)
@@ -32,7 +32,7 @@ The final dashboard is a clean, visually thematic report designed for quick cons
 * Primary Tool: Microsoft Excel (2016+)
 * Version Control: Git & GitHub
 
-## Data Cleaning/Preparation
+## Data Cleaning 
 This stage focused on establishing a clean, structured, and consistent dataset ready for Pivot Table analysis.
 
 Data Gathering & Transformation:
